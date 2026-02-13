@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTM3U
 EXTINF:-1 tvg-name="TN",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
@@ -45,4 +45,5 @@ EXTINF:-1 tvg-name="CANAL 9 BS AS",CANAL 9 BS AS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d13f163e1c824951a54becae88891bbd:c0ad487ec61758ff055a275d7763a083
 https://bvclive1.boldmss.com/CANAL_9_BS_AS/CANAL_9_BS_AS_BVC.isml/CANAL_9_BS_AS.mpd
+
 
