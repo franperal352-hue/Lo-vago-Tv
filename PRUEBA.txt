@@ -1,16 +1,48 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-name="Eventos ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
-http://181.13.252.102:8000/play/a0bc
+
+EXTINF:-1 tvg-name="TN",TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
+https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
 
 EXTINF:-1 tvg-name="A24",A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93
 https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd
 
-#EXTINF:-1 tvg-name="A24",A24
+EXTINF:-1 tvg-name="C5N",C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93
-https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd
+#KODIPROP:inputstream.adaptive.license_key=9664f194571646379fee20a080ecce4b:b2870d1257acfc9da74057d2b286e68e
+https://bvclive1.boldmss.com/C5N/C5N_BVC.isml/C5N.mpd
+
+EXTINF:-1 tvg-name="CRONICA HD",CRONICA HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eafc0a6924d1469486c538ce8cac7048:c56b8f4f1591ac79ff8f2f73072bb2cf
+https://bvclive1.boldmss.com/CRONICA_TV/CRONICA_TV_BVC.isml/CRONICA_TV.mpd
+
+EXTINF:-1 tvg-name="UNIFE",UNIFE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e8153f705f64b0499449ff403ed5b32:e63a5314ccb236a127665f3d95f8c183
+https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
+
+EXTINF:-1 tvg-name="AR12",AR12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
+https://bvclive1.boldmss.com/AR12/AR12_BVC.isml/AR12.mpd
+
+EXTINF:-1 tvg-name="TV PUBLICA",TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5eaf2dacee49c6b6b3299bfd7a3c55:59caf6a8acb148785de028994efd69f7
+https://bvclive1.boldmss.com/TV_PUBLICA/TV_PUBLICA_BVC.isml/TV_PUBLICA.mpd
+
+EXTINF:-1 tvg-name="AMERICA BVC",AMERICA BVC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77cee7620b80b4965b2558502f2c696c6:eec3de24ddc895d1333ff7f33516f9f1
+https://bvclive1.boldmss.com/AMERICA/AMERICA_BVC.isml/AMERICA.mpd
+
+EXTINF:-1 tvg-name="CANAL 9 BS AS",CANAL 9 BS AS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d13f163e1c824951a54becae88891bbd:c0ad487ec61758ff055a275d7763a083
+https://bvclive1.boldmss.com/CANAL_9_BS_AS/CANAL_9_BS_AS_BVC.isml/CANAL_9_BS_AS.mpd
 
