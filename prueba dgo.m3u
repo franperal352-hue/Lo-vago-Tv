@@ -1,5 +1,8 @@
+#EXTM3U
+#EXTM3U
 
 
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=005dad2d8ba53f278bea72d24da19eb5:13f7c2da56e441ff97aa698d5aaa41c4
@@ -59,5 +62,6 @@ https://1071-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d6
 #KODIPROP:inputstream.adaptive.license_key=140c2dd86a4b33abaac25d2b31fd44d5:bf84e5422f222f997405d4d0b9ce8d5c
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="Argentina" ch-number="31" type="channel", dgo sports
 https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
+
 
 
