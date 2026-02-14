@@ -13,11 +13,15 @@ https://el4live1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/ESPN_PREMIUM.mpd
 #KODIPROP:inputstream.adaptive.license_key=bcabc0fba912433fb12f40542783c726:7af404173b1cbb725934e4725a274b9c
 #KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://cpix.tbxdrm.com/v1/license/dtvgo/widevine?contentId=Live_1057&userToken=<token>|Content-Type=application/octet-stream|R{SSM}|
 #EXTINF:1 tvg-logo="https://i.ibb.co/wsxNGYx/DSports.png" group-title="DEPORTES",DSports
-ttps://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd|https://api.directvgo.com/entitlement/v3/playback/token/authorizer
-
-
+ttps://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=005dad2d8ba53f278bea72d24da19eb5:13f7c2da56e441ff97aa698d5aaa41c4
+#KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://cpix.tbxdrm.com/v1/license/dtvgo/widevine?contentId=Live_1057&userToken=<token>|Content-Type=application/octet-stream|R{SSM}|
+#EXTINF:1 tvg-logo="https://i.ibb.co/wsxNGYx/DSports.png" group-title="DEPORTES",DSports
+ttps://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=005dad2d8ba53f278bea72d24da19eb5:13f7c2da56e441ff97aa698d5aaa41c4
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="Argentina" ch-number="31" type="channel", dgo sports
 https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
+
