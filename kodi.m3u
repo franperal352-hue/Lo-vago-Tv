@@ -1,83 +1,31 @@
-
-#EXTM3U
-#EXTM3U
-
 #EXTM3U
 
 
 
-#EXTINF:-1 tvg-name="Canal Local Gigared Corrientes" group-title="Locales",Canal Local Gigared Corrientes
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1, dgo prueba
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0861a93feb64c963a2844caa9c53f2a2:e0c0acd81206879243405fb1e166e333
-#KODIPROP:inputstream.adaptive.max_resolution=720
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://cdn03.gigared.com.ar/live/eds/Canal_Local_Gigared_Corrientes/sa_live_dash/Canal_Local_Gigared_Corrientes.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vKvA-6kSQz-xL0BUJ4PHJg","k":"evQEFzscu3JZNORyWidLnA"}],"type":"temporary"},{"keys":[{"kty":"oct","kid":"AF2tLYulPyeL6nLSTaGetQ","k":"E_fC2lbkQf-XqmmNWqpBxA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.directvgo.com/"
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
 
 
 
 
+#EXTINF:-1, dgo prueba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcabc0fba912433fb12f40542783c726:7af404173b1cbb725934e4725a274b9c
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.directvgo.com/"
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
 
-
-#EXTINF:-1 group-title="Deportes",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.max_resolution=720
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-
-
-
-#EXTINF:-1 group-title="Deportes",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.max_bandwidth=5000000
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-#EXTINF:-1 group-title="Deportes",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.max_bandwidth=5000000
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=KEYID:8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="Deportes",ESPN
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="Deportes",ESPN
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="Deportes",ESPN 2
-https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=KEYID:02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="Deportes",ESPN
-https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
-
+#EXTINF:-1, dgo prueba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=005dad2d8ba53f278bea72d24da19eb5:13f7c2da56e441ff97aa698d5aaa41c4
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.directvgo.com/"
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
 
 
 
