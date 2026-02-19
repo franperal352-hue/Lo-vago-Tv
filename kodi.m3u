@@ -22,5 +22,14 @@ https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d6
 https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd|referer=https://www.directvgo.com/&origin=https://www.directvgo.com
 
 
+#EXTINF:-1, prueba deportes dgo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="keys":[{"kty":"oct","kid":"vKvA-6kSQz-xL0BUJ4PHJg","k":"evQEFzscu3JZNORyWidLnA"},{"kty":"oct","kid":"AF2tLYulPyeL6nLSTaGetQ","k":"E_fC2lbkQf-XqmmNWqpBxA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://db94fd00ac0e43679bf5def573fffabf.mediatailor.us-east-1.amazonaws.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?|referer=https://www.directvgo.com/&origin=https://www.directvgo.com
 
-
+#EXTINF:-1, prueba deportes dgo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="keys":[{"kty":"oct","kid":"vKvA-6kSQz-xL0BUJ4PHJg","k":"evQEFzscu3JZNORyWidLnA"},{"kty":"oct","kid":"AF2tLYulPyeL6nLSTaGetQ","k":"E_fC2lbkQf-XqmmNWqpBxA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://db94fd00ac0e43679bf5def573fffabf.mediatailor.us-east-1.amazonaws.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?|referer=https://www.directvgo.com/&origin=https://www.directvgo.com
