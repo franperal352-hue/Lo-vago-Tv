@@ -32,4 +32,5 @@ https://db94fd00ac0e43679bf5def573fffabf.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WpQ8rWqxXLOL4DFC7FW0kw","k":"pAxHb5sRI0blrGUrZ4b5zw"},{"kty":"oct","kid":"j5PlszdpPD2ZVgdzxQFZiw","k":"NMXg1enOKGpLgwA_672nyA"},{"kty":"oct","kid":"cD8cwXkMMVOJ33R4itWvrg","k":"bvZMM6D1k3YavxmG2MwKgA"},{"kty":"oct","kid":"nf4vWMIgR4WZphvRRfYTRQ","k":"eetZmErQ5Mf3mX8mq0B4jA"},{"kty":"oct","kid":"ocfY9MhVXniBPL1A9L3qSw","k":"6FNi3m_VzzKBwN4ybIy3xw"},{"kty":"oct","kid":"nsNeXv2IUlGPExpELJYgaA","k":"qCt-2AZKJT5cUtHXM2_lBA"},{"kty":"oct","kid":"kHWIES5kV9-KWWRX23TaUg","k":"mADOz5tnBBJIPPs_DXr2PQ"},{"kty":"oct","kid":"QKqKNGf8V5Cld5ohkItKdQ","k":"aGENzD58ka2wOAccr8t2Zg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://1009-aws.akamaized.net/1009_A24_DASH/manifest.mpd?|referer=https://www.directvgo.com/&origin=https://www.directvgo.com
+https://1009-aws.akamaized.net/1009_A24_DASH/manifest.mpd|referer=https://www.directvgo.com/&origin=https://www.directvgo.com
+
