@@ -4,38 +4,39 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b1c1cf6180e417b6023cb847b77e635:289f562dc084496148a0bd12f597b90b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge3118.telecentro.net.ar/bpk-token/1ab@ig0fkskdixijkrsq4tnivuluentrorsui2xfzuca/LNMAS/LNMAS.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge3118.telecentro.net.ar/bpk-token/1ab@ig0fkskdixijkrsq4tnivuluentrorsui2xfzuca/LNMAS/LNMAS.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 #EXTINF:-1 ch-number="18" tvg-id="TELEMAX.ar" tvg-logo="https://i.imgur.com/TELEMAX.png" group-title="Argentina - Neon TV",Telemax
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=983c5d8fd5304be78edb77e24feff9f6:5d3a67a6cd755fa91cc615847f952077
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge4186.telecentro.net.ar/bpk-token/1ac@nz4xbnti15gu30okkhscl3pd0ojw5ni1nzijtlda/TELEMAX/TELEMAX.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge4186.telecentro.net.ar/bpk-token/1ac@nz4xbnti15gu30okkhscl3pd0ojw5ni1nzijtlda/TELEMAX/TELEMAX.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 #EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=709d0fd48041f4e6872bf682ca579ae0:693b421e0ca24a2f36c87ec8c2926c92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge52035.telecentro.net.ar/bpk-token/1ac@04d3psjlpu5jwwwhzq3neh05edw5i5tm0yih3uba/TN/TN.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge52035.telecentro.net.ar/bpk-token/1ac@04d3psjlpu5jwwwhzq3neh05edw5i5tm0yih3uba/TN/TN.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76eee0eefacff2b94ef20a86e3ded943:fa3a81f16e3cb3addf716c8396626654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge82012.telecentro.net.ar/bpk-token/1ab@wfw1j1n0yohnxp1bfdzvsmxtwtnr3o0owltb13ba/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge82012.telecentro.net.ar/bpk-token/1ab@wfw1j1n0yohnxp1bfdzvsmxtwtnr3o0owltb13ba/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a825d39277c32344129d33b30372f348:52c7794d12d2a893c2708758598c6eb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge53045.telecentro.net.ar/bpk-token/1ac@p21vhi54px4anzwahuqgbxlpqgd5o3b0peqmvoda/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge53045.telecentro.net.ar/bpk-token/1ac@p21vhi54px4anzwahuqgbxlpqgd5o3b0peqmvoda/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a825d39277c32344129d33b30372f348:52c7794d12d2a893c2708758598c6eb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge82012.telecentro.net.ar/bpk-token/1ab@wfw1j1n0yohnxp1bfdzvsmxtwtnr3o0owltb13ba/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge82012.telecentro.net.ar/bpk-token/1ab@wfw1j1n0yohnxp1bfdzvsmxtwtnr3o0owltb13ba/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+
 
 
 
