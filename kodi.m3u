@@ -63,4 +63,25 @@ token/1ab@5y2ti1mztpcndnu3fbjhizhrwjhg5e0g5ihm03aa/TELEFE/TELEFE.isml/manifest.m
 token/1ab@5y2ti1mztpcndnu3fbjhizhrwjhg5e0g5ihm03aa/TELEFE/TELEFE.isml/manifest.mpd?bkm-query|referer=https://ver.telecentroplay.com.ar/&origin=https://ver.telecentroplay.com.ar
 
 
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/flowmusic.png" group-title="MUSICA",FlowMUSIC ev
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"9eb7c3121cb1f12d320c9529af97ce15","kid":"8393384a37df832340928e4253ff178b"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.telecentroplay.com.ar"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+token/1ab@5y2ti1mztpcndnu3fbjhizhrwjhg5e0g5ihm03aa/TELEFE/TELEFE.isml/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/flowmusic.png" group-title="MUSICA",FlowMUSIC ev
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"9eb7c3121cb1f12d320c9529af97ce15","kid":"8393384a37df832340928e4253ff178b"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.telecentroplay.com.ar"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+token/1ab@5y2ti1mztpcndnu3fbjhizhrwjhg5e0g5ihm03aa/TELEFE/TELEFE.isml/manifest.mpd?bkm-query
+
+
 
