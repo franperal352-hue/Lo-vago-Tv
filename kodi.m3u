@@ -33,13 +33,15 @@ https://edge53045.telecentro.net.ar/bpk-token/1ac@p21vhi54px4anzwahuqgbxlpqgd5o3
 
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a825d39277c32344129d33b30372f348:52c7794d12d2a893c2708758598c6eb4
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"4a4657f9d5d6b881b1d60788c6ea63ee","kid":"3aa88656189138c299b72ba64dd3802e"},{"k":"48c2c95b26efef41f9cacb4e561d3084","kid":"81c6c6bbb9683f5d8ef3a78b75b98442"},{"k":"0ff99f8489a05acc9d3e1f1f292b7e59","kid":"f3257a486c7a35928b22edcfaed1c1bd"},{"k":"d51cc8b32b29fe56af29ef46a5cae8d2","kid":"333f826f3553323fa816981b9a7d5b81"},{"k":"a60789113d46976eefd9dd9d5923521a","kid":"5b1f0fb5288036a09f512987d2c4c899"},{"k":"597b7c249902048425906e5194e8aa94","kid":"198084e68668358287ba403ccb16e48d"},{"k":"4d5776a3581241ee9fb212eae019738a","kid":"c66024b99429304780f04bf502eb25c8"},{"k":"29b39d6dc914805b21f427987c1dd7f7","kid":"c69650c50b7130a483f06d5b4c6ee5c8"},{"k":"2bf4d2807b3da7b8276e654eb6dcb047","kid":"71327d37d61b3f2cabd90693ec218572"},{"k":"d72e9e068971c0cbf6eee379106775d5","kid":"7c7cf6110a1d4aee814e496ca7a3aa2d"},{"k":"0d11cc5d502e7894b364a4b7caabbff4","kid":"de7d7ded48b437d691966acdc8a97262"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge82012.telecentro.net.ar/bpk-token/1ab@wfw1j1n0yohnxp1bfdzvsmxtwtnr3o0owltb13ba/FOXSPORTPREMIUM/FOXSPORTPREMIUM.isml/manifest.mpd|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://1282-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd?|referer=https://www.directvgo.com/&webtoken=1.0
 
-
-
-
+#EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"4a4657f9d5d6b881b1d60788c6ea63ee","kid":"3aa88656189138c299b72ba64dd3802e"},{"k":"48c2c95b26efef41f9cacb4e561d3084","kid":"81c6c6bbb9683f5d8ef3a78b75b98442"},{"k":"0ff99f8489a05acc9d3e1f1f292b7e59","kid":"f3257a486c7a35928b22edcfaed1c1bd"},{"k":"d51cc8b32b29fe56af29ef46a5cae8d2","kid":"333f826f3553323fa816981b9a7d5b81"},{"k":"a60789113d46976eefd9dd9d5923521a","kid":"5b1f0fb5288036a09f512987d2c4c899"},{"k":"597b7c249902048425906e5194e8aa94","kid":"198084e68668358287ba403ccb16e48d"},{"k":"4d5776a3581241ee9fb212eae019738a","kid":"c66024b99429304780f04bf502eb25c8"},{"k":"29b39d6dc914805b21f427987c1dd7f7","kid":"c69650c50b7130a483f06d5b4c6ee5c8"},{"k":"2bf4d2807b3da7b8276e654eb6dcb047","kid":"71327d37d61b3f2cabd90693ec218572"},{"k":"d72e9e068971c0cbf6eee379106775d5","kid":"7c7cf6110a1d4aee814e496ca7a3aa2d"},{"k":"0d11cc5d502e7894b364a4b7caabbff4","kid":"de7d7ded48b437d691966acdc8a97262"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://www.directvgo.com/player/live/CH0100000000341?source=Vrio|referer=https://www.directvgo.com/&webtoken=1.0
 
 
 
