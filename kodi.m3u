@@ -82,5 +82,38 @@ https://edge3118.telecentro.net.ar/bpk-token/1ab@pgea1y3pqamdhsp0syyhviawrtsbbyg
 #EXTVLCOPT--http-reconnect=true
 https://edge3118.telecentro.net.ar/bpk-token/1ab@pgea1y3pqamdhsp0syyhviawrtsbbygop2jai4ba/TELEFE/TELEFE.isml/manifest.mpd?bkm-query
 
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/flowmusic.png" group-title="MUSICA",FlowMUSIC ev
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"9eb7c3121cb1f12d320c9529af97ce15","kid":"8393384a37df832340928e4253ff178b"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.telecentroplay.com.ar"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/flowmusic.png" group-title="MUSICA",FlowMUSIC ev
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"9eb7c3121cb1f12d320c9529af97ce15","kid":"8393384a37df832340928e4253ff178b"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.telecentroplay.com.ar"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?bkm-query
+
+
+#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8393384a37df832340928e4253ff178b:9eb7c3121cb1f12d320c9529af97ce15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?bkm-query|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+
+#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8393384a37df832340928e4253ff178b:9eb7c3121cb1f12d320c9529af97ce15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+
 
 
