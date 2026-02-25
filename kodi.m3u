@@ -10,7 +10,7 @@ https://edge3118.telecentro.net.ar/bpk-token/1ab@ig0fkskdixijkrsq4tnivuluentrors
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=983c5d8fd5304be78edb77e24feff9f6:5d3a67a6cd755fa91cc615847f952077
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge1158.telecentro.net.ar/bpk-token/1ab@tuxsmcnm4ksjuajgmrv5qpfzecf3vetitccs5eba/TELEMAX/TELEMAX.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
+https://edge4186.telecentro.net.ar/bpk-token/1ac@nz4xbnti15gu30okkhscl3pd0ojw5ni1nzijtlda/TELEMAX/TELEMAX.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 #EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -25,17 +25,6 @@ https://edge52035.telecentro.net.ar/bpk-token/1ac@04d3psjlpu5jwwwhzq3neh05edw5i5
 https://edge5078.telecentro.net.ar/bpk-token/1ab@g0qivq2fdcvccmny33mvnbrkbjrgekfegsnxhwaa/AMERICA24/AMERICA24.isml/manifest.mpd?
 
 
-#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8393384a37df832340928e4253ff178b:9eb7c3121cb1f12d320c9529af97ce15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?bkm-query|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8393384a37df832340928e4253ff178b:9eb7c3121cb1f12d320c9529af97ce15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge7064.telecentro.net.ar/bpk-token/1ac@g1vbjefgxgerud5b3swvpldsiczonicjgll21cba/TELEFE/TELEFE.isml/manifest.mpd?|referer=https://ver.telecentroplay.com.ar/&webtoken=1.0
 
 
 
