@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png?raw=true" group-title="Argentina" ch-number="24" type="channel", go prueba 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"4a4657f9d5d6b881b1d60788c6ea63ee","kid":"3aa88656189138c299b72ba64dd3802e"},{"k":"48c2c95b26efef41f9cacb4e561d3084","kid":"81c6c6bbb9683f5d8ef3a78b75b98442"},{"k":"0ff99f8489a05acc9d3e1f1f292b7e59","kid":"f3257a486c7a35928b22edcfaed1c1bd"},{"k":"d51cc8b32b29fe56af29ef46a5cae8d2","kid":"333f826f3553323fa816981b9a7d5b81"},{"k":"a60789113d46976eefd9dd9d5923521a","kid":"5b1f0fb5288036a09f512987d2c4c899"},{"k":"597b7c249902048425906e5194e8aa94","kid":"198084e68668358287ba403ccb16e48d"},{"k":"4d5776a3581241ee9fb212eae019738a","kid":"c66024b99429304780f04bf502eb25c8"},{"k":"29b39d6dc914805b21f427987c1dd7f7","kid":"c69650c50b7130a483f06d5b4c6ee5c8"},{"k":"2bf4d2807b3da7b8276e654eb6dcb047","kid":"71327d37d61b3f2cabd90693ec218572"},{"k":"d72e9e068971c0cbf6eee379106775d5","kid":"7c7cf6110a1d4aee814e496ca7a3aa2d"},{"k":"0d11cc5d502e7894b364a4b7caabbff4","kid":"de7d7ded48b437d691966acdc8a97262"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://1282-aws-da-mt.vrioott.com/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd?hdnts=exp%3D1771996991%7Eacl%3D%2F*%7Eid%3D1cef26c1-fb63-40a9-8a42-c1ab4e34b079%7Ehmac%3D95f12f14ccb036928728ab8193662d26d8f43f333f620b850940c942d0d7e64a&tokenization=true&da=1&country=AR&accountType=DTH&accountId=1cef26c1-fb63-40a9-8a42-c1ab4e34b079&deviceType=web&channelId=CH0100000000341&deviceId=35df5fc4-e62d-45ba-bf58-93e2aae02297|referer=https://www.directvgo.com/&webtoken=1.0
 
+#EXTINF:-1 tvg-name="dgo prueba cam" tvg-logo="https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg" group-title="prueba" 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={003e7ea0dbc43b7586a4e92aeaa1a5bf:1df9922d12cc80369b77b5f41f0addc2,a79790c3c01d3050bde964e1ef649df2:983aecc5cff716097b8633110aaeaeb4,81f6dfb1bbe148ad9757d7f0d7f73ae7:6b421f1711c4b134181d27066e5a07b7,9551559085843488876b472cd5416000:c12c2fb3a7622e63b1cf99c22c604d3d}
+https://1289-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1289/1289_GRAN_HERMANO_24HRS_FREE_DASH/manifest.mpd?hdnts=exp%3D1772000277%7Eacl%3D%2F*%7Eid%3D1cef26c1-fb63-40a9-8a42-c1ab4e34b079%7Ehmac%3Da76740035e57862b9458b46b8758059d519d091461193e6206e26b70a84a028e&tokenization=true&da=1&country=AR&accountType=DTH&accountId=1cef26c1-fb63-40a9-8a42-c1ab4e34b079&deviceType=web&channelId=CH0100000000354&deviceId=35df5fc4-e62d-45ba-bf58-93e2aae02297
 
 
 
