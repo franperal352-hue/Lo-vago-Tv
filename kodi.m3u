@@ -16,5 +16,6 @@ tv mio
 #EXTINF:-1 tvg-name="preuba tvg-logo="https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg" group-title=prueba  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={94c9e4d22b7f59008100540395ab6071:c85679667e247d4cf9ae07cdd5b64655,80dbb7714eb45b3588d3c3504fc54407:8aaf77ed374e01283c5f9eed5fc0b0e5,d69ab8fc784f513686a121b69f085b5c:945cfe61e4c2c7bc490d6c753edca557}
+#KODIPROP:inputstream.adaptive.license_key=94c9e4d22b7f59008100540395ab6071:c85679667e247d4cf9ae07cdd5b64655
 https://362a33c2a385d7d1e52d89d16d6db901a224f189.cdn.broadpeak.io/bcdn_token=U2xyIqU6JH01FLLi1JrWcsPlGQSC7uaDPWHBmU4T7HE&token_path=%2Fespnpremium%2F&expires=1763210600/espnpremium/manifest.mpd
+
