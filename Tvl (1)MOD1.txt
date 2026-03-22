@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cdn.sensa.com.ar/espn/epg.php,https://cdn.sensa.com.ar/tycsportsplay/tyc.php?mode=epg,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php"
+#EXTM3U 
+
+url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cdn.sensa.com.ar/espn/epg.php,https://cdn.sensa.com.ar/tycsportsplay/tyc.php?mode=epg,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php"
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345346/amrez8xvti7qszmwoorl.png" group-title="Santa Fe",VEO Santa Fe (C)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
