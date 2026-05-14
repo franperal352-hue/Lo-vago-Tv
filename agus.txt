@@ -1,26 +1,40 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png" group-title="Provinciales", Canal 12 Misiones
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="MISIONES", MISIONES CUATRO MISIONES
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png"  group-title="MISIONES", Canal 4 Posadas 
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/logo.png" group-title="MISIONES", CANAL 21 POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="MISIONES", Noticias del 6 TV 
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="MISIONES", CANAL 9 NORTE MISIONES
+https://panel.host-live.com:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiomasnoticias.com.ar/img/logos2.png" group-title="MISIONES", 35 TV POSADAS
+https://iptv.ixfo.com.ar:30443/live/Canal35TV/playlist.m3u8
+#EXTINF:-1 tvg-id="MISIONES ONLINE" tvg-name="MISIONES ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Misiones_Online.png" group-title="STREAM" ch-number="106" type="channel",MISIONES ONLINE
+https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=6S7bKIuc_I61nv1iltGBVjmXGyIx1F_3qzZkl-5ZodawEAJ4WqFCSaY6ZluzDf-HzcyZLyDIeDVWDmz1yr7vQi73Klgn6IVizgROYFtZOPZm0qGNLqJvE_Mdg-aBINR9&dmTs=590107&dmV1st=23c21541-8bf8-e268-0587-e91ecc2fd14b
 
-#EXTINF:11,26TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:0,CANAL 26 HD
+http://45.5.151.62:8000/play/a004/index.m3u8
 #EXTINF:0,TN HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:0,C5N
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01p/index.m3u8
-#EXTINF:0,A24
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" tvg-id="LaNacionPlus.ar" group-title="Noticias",LN+ 🇦🇷 (Op. 1)
+https://val04.ride.com.ar/tvmia/an14/playlist.m3u8
+#EXTINF:0,A24 HD
+http://45.5.151.62:8000/play/a002/index.m3u8
 #EXTINF:0,Telefe HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:0,America TV HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a055/index.m3u8
-#EXTINF:0,Cronica
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01q/index.m3u8
+#EXTINF:0,CRONICA HD
+http://45.5.151.62:8000/play/a003/index.m3u8
 #EXTINF:0,el nueve HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a04h/index.m3u8
@@ -111,6 +125,10 @@ http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:0,Dsport HD ENC
 #EXTVLCOPT:network-caching=1000
 http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:0,Dsport HD 2
+http://38.252.213.9:8000/play/a00f
+#EXTINF:0,DSPORTS EXTRA HD 
+http://181.66.249.25:8000/play/a0gq/index.m3u8.
 #EXTINF:0,ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05a/index.m3u8
@@ -213,9 +231,6 @@ http://181.13.252.102:8000/play/a0ab/index.m3u8
 #EXTINF:0,History Channel
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a051/index.m3u8
-#EXTINF:0,La Nacion TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01s/index.m3u8
 #EXTINF:0,La Tele
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0a8/index.m3u8
