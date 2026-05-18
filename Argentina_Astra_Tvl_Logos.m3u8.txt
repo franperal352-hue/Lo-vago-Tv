@@ -1,312 +1,62 @@
-#EXTM3U url-tvg="[https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml](https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml)" x-tvg-url="[https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml](https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml)"
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="CANAL 26 HD" group-title="Noticias",CANAL 26 HD
-[http://45.5.151.62:8000/play/a004/index.m3u8](http://45.5.151.62:8000/play/a004/index.m3u8)
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" group-title="Noticias",TN HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a058/index.m3u8](http://181.13.252.102:8000/play/a058/index.m3u8)
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias",C5N
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a01p/index.m3u8](http://181.13.252.102:8000/play/a01p/index.m3u8)
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LaNacionPlus.ar" tvg-logo="[https://i.imgur.com/Gj1kqH5.png](https://i.imgur.com/Gj1kqH5.png)" group-title="Noticias",LN+ 🇦🇷 (Op. 1)
-[https://val04.ride.com.ar/tvmia/an14/playlist.m3u8](https://val04.ride.com.ar/tvmia/an14/playlist.m3u8)
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 HD" group-title="Noticias",A24 HD
-[http://45.5.151.62:8000/play/a002/index.m3u8](http://45.5.151.62:8000/play/a002/index.m3u8)
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" group-title="TV Abierta",Telefe HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06c/index.m3u8](http://181.13.252.102:8000/play/a06c/index.m3u8)
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" group-title="TV Abierta",America TV HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a055/index.m3u8](http://181.13.252.102:8000/play/a055/index.m3u8)
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA HD" group-title="Noticias",CRONICA HD
-[http://45.5.151.62:8000/play/a003/index.m3u8](http://45.5.151.62:8000/play/a003/index.m3u8)
-
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="el nueve HD" group-title="TV Abierta",el nueve HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a04h/index.m3u8](http://181.13.252.102:8000/play/a04h/index.m3u8)
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="el trece HD" group-title="TV Abierta",el trece HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a0bg/index.m3u8](http://181.13.252.102:8000/play/a0bg/index.m3u8)
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" group-title="TV Abierta",TV Publica HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a056/index.m3u8](http://181.13.252.102:8000/play/a056/index.m3u8)
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02s/index.m3u8](http://181.13.252.102:8000/play/a02s/index.m3u8)
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" group-title="Deportes",ESPN HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05a/index.m3u8](http://181.13.252.102:8000/play/a05a/index.m3u8)
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a059/index.m3u8](http://181.13.252.102:8000/play/a059/index.m3u8)
-
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05b/index.m3u8](http://181.13.252.102:8000/play/a05b/index.m3u8)
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a078/index.m3u8](http://181.13.252.102:8000/play/a078/index.m3u8)
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a0bc/index.m3u8](http://181.13.252.102:8000/play/a0bc/index.m3u8)
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" group-title="Deportes",Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a07j/index.m3u8](http://181.13.252.102:8000/play/a07j/index.m3u8)
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05c/index.m3u8](http://181.13.252.102:8000/play/a05c/index.m3u8)
-
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02t/index.m3u8](http://181.13.252.102:8000/play/a02t/index.m3u8)
-
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-name="Cartoon Network HD" group-title="Infantil",Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a075/index.m3u8](http://181.13.252.102:8000/play/a075/index.m3u8)
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-name="Disney Channel HD" group-title="Infantil",Disney Channel HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02r/index.m3u8](http://181.13.252.102:8000/play/a02r/index.m3u8)
-
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a04z/index.m3u8](http://181.13.252.102:8000/play/a04z/index.m3u8)
-
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@South" tvg-name="Discovery Channel HD" group-title="Documentales",Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a07i/index.m3u8](http://181.13.252.102:8000/play/a07i/index.m3u8)
-
-#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="History Channel" group-title="Documentales",History Channel
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a051/index.m3u8](http://181.13.252.102:8000/play/a051/index.m3u8)
-
-#EXTINF:-1 tvg-id="NatGeo.ar" tvg-name="Nat Geo HD" group-title="Documentales",Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05g/index.m3u8](http://181.13.252.102:8000/play/a05g/index.m3u8)
-
-#EXTINF:-1 tvg-id="ar#hbo" tvg-name="HBO" group-title="Peliculas",HBO
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06o/index.m3u8](http://181.13.252.102:8000/play/a06o/index.m3u8)
-
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-name="TNT HD" group-title="Peliculas",TNT HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a07d/index.m3u8](http://181.13.252.102:8000/play/a07d/index.m3u8)
-
-#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-name="Warner Channel HD" group-title="Series",Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05e/index.m3u8](http://181.13.252.102:8000/play/a05e/index.m3u8)
-
-#EXTINF:-1 tvg-id="Sony.ar" tvg-name="Sony HD" group-title="Series",Sony HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05d/index.m3u8](http://181.13.252.102:8000/play/a05d/index.m3u8)
-
-#EXTINF:-1 tvg-id="Universal.ar" tvg-name="Universal HD" group-title="Series",Universal HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05j/index.m3u8](http://181.13.252.102:8000/play/a05j/index.m3u8)
-
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" group-title="Peliculas",Space HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02w/index.m3u8](http://181.13.252.102:8000/play/a02w/index.m3u8)
-
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" group-title="Series",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a079/index.m3u8](http://181.13.252.102:8000/play/a079/index.m3u8)
-
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" group-title="Peliculas",Cinecanal HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a07b/index.m3u8](http://181.13.252.102:8000/play/a07b/index.m3u8)
-
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal" group-title="Peliculas",Studio Universal
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a022/index.m3u8](http://181.13.252.102:8000/play/a022/index.m3u8)
-
-#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" group-title="Entretenimiento",Volver
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a021/index.m3u8](http://181.13.252.102:8000/play/a021/index.m3u8)
-
-#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" group-title="Musica",MTV
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02m/index.m3u8](http://181.13.252.102:8000/play/a02m/index.m3u8)
-
-#EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-name="Quiero Musica" group-title="Musica",Quiero Musica
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02n/index.m3u8](http://181.13.252.102:8000/play/a02n/index.m3u8)
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Infantil",Pakapaka
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a01n/index.m3u8](http://181.13.252.102:8000/play/a01n/index.m3u8)
-
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Cultura",Encuentro
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a01m/index.m3u8](http://181.13.252.102:8000/play/a01m/index.m3u8)
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Deportes",DeporTV
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06h/index.m3u8](http://181.13.252.102:8000/play/a06h/index.m3u8)
-
-#EXTINF:-1 tvg-id="CanalDeLaCiudad.ar" tvg-name="Canal de la Ciudad" group-title="TV Abierta",Canal de la Ciudad
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06e/index.m3u8](http://181.13.252.102:8000/play/a06e/index.m3u8)
-
-#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" group-title="Entretenimiento",Metro
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02g/index.m3u8](http://181.13.252.102:8000/play/a02g/index.m3u8)
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="ciudad magazine" group-title="Entretenimiento",ciudad magazine
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02h/index.m3u8](http://181.13.252.102:8000/play/a02h/index.m3u8)
-
-#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-name="A&E HD" group-title="Series",A&E HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05i/index.m3u8](http://181.13.252.102:8000/play/a05i/index.m3u8)
-
-#EXTINF:-1 tvg-id="ar#axn" tvg-name="AXN HD" group-title="Series",AXN HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a05f/index.m3u8](http://181.13.252.102:8000/play/a05f/index.m3u8)
-
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" group-title="Entretenimiento",Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02x/index.m3u8](http://181.13.252.102:8000/play/a02x/index.m3u8)
-
-#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" group-title="Series",FX HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02v/index.m3u8](http://181.13.252.102:8000/play/a02v/index.m3u8)
-
-#EXTINF:-1 tvg-id="Lifetime.ar" tvg-name="Lifetime" group-title="Series",Lifetime
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06n/index.m3u8](http://181.13.252.102:8000/play/a06n/index.m3u8)
-
-#EXTINF:-1 tvg-id="Paramount.ar" tvg-name="Paramount HD" group-title="Peliculas",Paramount HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02y/index.m3u8](http://181.13.252.102:8000/play/a02y/index.m3u8)
-
-#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" group-title="Peliculas",TCM
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a020/index.m3u8](http://181.13.252.102:8000/play/a020/index.m3u8)
-
-#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE" group-title="Internacional",TVE
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a072/index.m3u8](http://181.13.252.102:8000/play/a072/index.m3u8)
-
-#EXTINF:-1 tvg-id="RAIItalia.ar" tvg-name="RAI Italia" group-title="Internacional",RAI Italia
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02p/index.m3u8](http://181.13.252.102:8000/play/a02p/index.m3u8)
-
-#EXTINF:-1 tvg-id="RT.ar" tvg-name="RT en Español" group-title="Noticias",RT en Español
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a0ac/index.m3u8](http://181.13.252.102:8000/play/a0ac/index.m3u8)
-
-#EXTINF:-1 tvg-id="CNNEspanol.ar" tvg-name="CNN en Español" group-title="Noticias",CNN en Español
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a054/index.m3u8](http://181.13.252.102:8000/play/a054/index.m3u8)
-
-#EXTINF:-1 tvg-id="Rural.ar" tvg-name="Rural" group-title="Documentales",Rural
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02f/index.m3u8](http://181.13.252.102:8000/play/a02f/index.m3u8)
-
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Lifestyle",El Gourmet
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06w/index.m3u8](http://181.13.252.102:8000/play/a06w/index.m3u8)
-
-#EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV" group-title="Lifestyle",HGTV
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a02j/index.m3u8](http://181.13.252.102:8000/play/a02j/index.m3u8)
-
-#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! Entertainment" group-title="Entretenimiento",E! Entertainment
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a050/index.m3u8](http://181.13.252.102:8000/play/a050/index.m3u8)
-
-#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts HD" group-title="Cultura",Film & Arts HD
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a030/index.m3u8](http://181.13.252.102:8000/play/a030/index.m3u8)
-
-#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Peliculas",Europa Europa
-#EXTVLCOPT:network-caching=1000
-[http://181.13.252.102:8000/play/a06v/index.m3u8](http://181.13.252.102:8000/play/a06v/index.m3u8)
-
-# Nota:
-
-# Algunos canales internacionales o alternativos pueden no coincidir exactamente con el EPG.
-
-# Si un canal no muestra guía, hay que revisar el tvg-id exacto dentro del XML del EPG.
-
-# Archivo original proporcionado por el usuario: fileciteturn0file0
-
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02p/index.m3u8
-#EXTINF:1 tvg-id="rtenespaol" tvg-name="RT en Espa ol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="Argentina Astra" tvg-chno="89",RT en Espa ol
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ac/index.m3u8
-#EXTINF:1 tvg-id="rural" tvg-name="Rural" tvg-logo="https://i.imgur.com/RURAL.png" group-title="Argentina Astra" tvg-chno="90",Rural
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02f/index.m3u8
-#EXTINF:1 tvg-id="sonyhd" tvg-name="Sony HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/32.png" group-title="Argentina Astra" tvg-chno="91",Sony HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05d/index.m3u8
-#EXTINF:1 tvg-id="sonymovieshd" tvg-name="Sony Movies HD" tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="Argentina Astra" tvg-chno="92",Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05k/index.m3u8
-#EXTINF:1 tvg-id="spacehd" tvg-name="Space HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/33.png" group-title="Argentina Astra | Cine y Series" tvg-chno="93",Space HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02w/index.m3u8
-#EXTINF:1 tvg-id="starchannelhd" tvg-name="Star Channel HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/19.png" group-title="Argentina Astra" tvg-chno="94",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a079/index.m3u8
-#EXTINF:1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/77.png" group-title="Argentina Astra" tvg-chno="95",Studio Universal
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a022/index.m3u8
-#EXTINF:1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" group-title="Argentina Astra" tvg-chno="96",TCM
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a020/index.m3u8
-#EXTINF:1 tvg-id="tlnovelas" tvg-name="TLNovelas" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png" group-title="Argentina Astra" tvg-chno="97",TLNovelas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bm/index.m3u8
-#EXTINF:1 tvg-id="tnthd" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Argentina Astra | Noticias" tvg-chno="98",TNT HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07d/index.m3u8
-#EXTINF:1 tvg-id="tntnovelashd" tvg-name="TNT Novelas HD" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Argentina Astra | Noticias" tvg-chno="99",TNT Novelas HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07g/index.m3u8
-#EXTINF:1 tvg-id="tntserieshd" tvg-name="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Argentina Astra | Noticias" tvg-chno="100",TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07e/index.m3u8
-#EXTINF:1 tvg-id="tve" tvg-name="TVE" tvg-logo="https://telecentro.com.ar/img/cm/channels/tve@2x.png" group-title="Argentina Astra" tvg-chno="101",TVE
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a072/index.m3u8
-#EXTINF:1 tvg-id="thehistorychannelhd" tvg-name="The History Channel HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1499.png" group-title="Argentina Astra" tvg-chno="102",The History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05h/index.m3u8
-#EXTINF:1 tvg-id="usanetwork" tvg-name="USA Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" group-title="Argentina Astra" tvg-chno="103",USA Network
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a023/index.m3u8
-#EXTINF:1 tvg-id="universalhd" tvg-name="Universal HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/327.png" group-title="Argentina Astra" tvg-chno="104",Universal HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05j/index.m3u8
-#EXTINF:1 tvg-id="vtv" tvg-name="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnpzmEokBVNQuovSeAfXVzfzeDnolV0IVIZpFEalwH0sXsLaeljrVtRZYQLQ27jSyyKg&usqp=CAU" group-title="Argentina Astra" tvg-chno="105",VTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0aa/index.m3u8
-#EXTINF:1 tvg-id="volver" tvg-name="Volver" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Argentina Astra" tvg-chno="106",Volver
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a021/index.m3u8
-#EXTINF:1 tvg-id="warnerchannelhd" tvg-name="Warner Channel HD" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/46.png" group-title="Argentina Astra" tvg-chno="107",Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05e/index.m3u8
-#EXTINF:1 tvg-id="ciudadmagazine" tvg-name="ciudad magazine" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Argentina Astra" tvg-chno="108",ciudad magazine
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02h/index.m3u8
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" x-tvg-url="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml"
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="CANAL 26 HD" group-title="Noticias",CANAL 26 HD http://45.5.151.62:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" group-title="Noticias",TN HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias",C5N #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",LN+ (Op. 1) https://val04.ride.com.ar/tvmia/an14/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 HD" group-title="Noticias",A24 HD http://45.5.151.62:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" group-title="TV Abierta",Telefe HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" group-title="TV Abierta",America TV HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA HD" group-title="Noticias",CRONICA HD http://45.5.151.62:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="el nueve HD" group-title="TV Abierta",el nueve HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="el trece HD" group-title="TV Abierta",el trece HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" group-title="TV Abierta",TV Publica HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" group-title="Deportes",ESPN HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" group-title="Deportes",Fox Sports HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-name="Cartoon Network HD" group-title="Infantil",Cartoon Network HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-name="Disney Channel HD" group-title="Infantil",Disney Channel HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@South" tvg-name="Discovery Channel HD" group-title="Documentales",Discovery Channel HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="History Channel" group-title="Documentales",History Channel #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="NatGeo.ar" tvg-name="Nat Geo HD" group-title="Documentales",Nat Geo HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo" tvg-name="HBO" group-title="Peliculas",HBO #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-name="TNT HD" group-title="Peliculas",TNT HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-name="Warner Channel HD" group-title="Series",Warner Channel HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="Sony HD" group-title="Series",Sony HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="Universal.ar" tvg-name="Universal HD" group-title="Series",Universal HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" group-title="Peliculas",Space HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" group-title="Series",Star Channel HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" group-title="Peliculas",Cinecanal HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal" group-title="Peliculas",Studio Universal #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" group-title="Entretenimiento",Volver #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" group-title="Musica",MTV #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-name="Quiero Musica" group-title="Musica",Quiero Musica #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Infantil",Pakapaka #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Cultura",Encuentro #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Deportes",DeporTV #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="CanalDeLaCiudad.ar" tvg-name="Canal de la Ciudad" group-title="TV Abierta",Canal de la Ciudad #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" group-title="Entretenimiento",Metro #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="ciudad magazine" group-title="Entretenimiento",ciudad magazine #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-name="A&E HD" group-title="Series",A&E HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="ar#axn" tvg-name="AXN HD" group-title="Series",AXN HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" group-title="Entretenimiento",Comedy Central HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" group-title="Series",FX HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.ar" tvg-name="Lifetime" group-title="Series",Lifetime #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.ar" tvg-name="Paramount HD" group-title="Peliculas",Paramount HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" group-title="Peliculas",TCM #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE" group-title="Internacional",TVE #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="RAIItalia.ar" tvg-name="RAI Italia" group-title="Internacional",RAI Italia #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="RT.ar" tvg-name="RT en Espa ol" group-title="Noticias",RT en Espa ol #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="CNNEspanol.ar" tvg-name="CNN en Espa ol" group-title="Noticias",CNN en Espa ol #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="Rural.ar" tvg-name="Rural" group-title="Documentales",Rural #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Lifestyle",El Gourmet #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV" group-title="Lifestyle",HGTV #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! Entertainment" group-title="Entretenimiento",E! Entertainment #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts HD" group-title="Cultura",Film & Arts HD #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Peliculas",Europa Europa #EXTVLCOPT:network-caching=1000 http://181.13.252.102:8000/play/a06v/index.m3u8
